@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../Devops-basic-Git"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "html-without-css-profile"
+    }
+}
